@@ -1,5 +1,5 @@
 # Introduction 
-My personal code-book to reuse code for competitive programming
+My personal code-book to reuse code for competitive programming also for reusable algorithm and data structure.
 
 # Getting Started
 Anyone one can get code from here and play with it. Please, don't use code without understamding the meaning.
